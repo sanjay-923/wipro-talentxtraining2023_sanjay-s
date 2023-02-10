@@ -15,3 +15,4 @@ String allNo = String.valueOf(input1) + String.valueOf(input2) + String.valueOf(
 		}
 		
 		return mostFrequentDigit;
+    }}
